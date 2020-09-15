@@ -1,0 +1,23 @@
+{
+  "name": "2nd-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yekyuhwang/2nd-assignment.git"
+  },
+  "author": "4leaf.HYK <4leaf.hyk@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yekyuhwang/2nd-assignment/issues"
+  },
+  "homepage": "https://github.com/yekyuhwang/2nd-assignment#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
